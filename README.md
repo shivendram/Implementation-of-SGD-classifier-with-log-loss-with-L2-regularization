@@ -1,0 +1,1 @@
+# Implementation-of-SGD-classifier-with-log-loss-with-L2-regularization
